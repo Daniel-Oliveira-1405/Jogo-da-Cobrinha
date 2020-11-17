@@ -5,8 +5,8 @@
 #include<time.h> // Para função rand()
 
 // Variáveis Globais
-int c[300][5], pontos=1, cx=2, cy=2;
-int comida[5], velo=150;
+int c[300][2], pontos=1, cx=2, cy=2;
+int comida[2], velo=150;
 char dir;
 
 // FUNÇÕES
